@@ -8,7 +8,7 @@
  * Contributors:
  * 
  * 
- * Copyright: 2023
+ * Copyright: 2025
  */
 package edu.gonzaga;
 
@@ -41,7 +41,7 @@ public class MainGame {
 
     void getPlayerInfo(){
 
-        
+
     }
 
 
